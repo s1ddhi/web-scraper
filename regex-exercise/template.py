@@ -14,7 +14,7 @@ def rowExtractor(source):
   pass
 
 # Task 3: Find out any titles (if any)
-def findTitles(source):
+def findTitles(rows):
   pass
 
 tableContent = tbodyContentExtractor(sourceContent)
