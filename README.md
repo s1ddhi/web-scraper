@@ -1,0 +1,1 @@
+This is the main repository with practical exercises used to facilitate teaching at Latymer's Y12 CS elective cohort.
